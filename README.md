@@ -27,7 +27,6 @@
 
 ## Webサイト
 
-[]()
 
 
 # ロゴデザイン　考察
@@ -77,8 +76,7 @@
 
 <img src="https://wired.jp/wp-content/uploads/2013/09/google_logo21.jpg" width="300">
 <img src="https://toda.sg/wp-content/uploads/2017/01/amazon-com-logo.jpg" width="300">
-
-<img src="https://github.com/TS-SARUTAHIKO/Designs/blob/master/Images/%E3%83%AD%E3%82%B4.jpg" width="300">
+<img src="/images/single/CocaCola.jpg" width="300">
 
 
 ### 正方形に収まるアイコン型

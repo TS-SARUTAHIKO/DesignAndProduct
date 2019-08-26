@@ -64,3 +64,10 @@
 <img src="../images/original/Storks03_Color4.png" width="300">
 <img src="../images/original/Storks03_Color5.png" width="300">
 
+
+## Oaks
+
+樫の木1号、ラフ画、木製品扱ってるイメージ<br>
+既にどっかがこんなロゴ使ってそうではあるがｗ
+
+<img src="../images/original/Oaks.png" width="300">

@@ -1,5 +1,5 @@
 
-[Git 管理ページ](https://github.com/TS-SARUTAHIKO/Designs)
+[ → Git 管理ページ](https://github.com/TS-SARUTAHIKO/Designs)
 
 
 # Logo

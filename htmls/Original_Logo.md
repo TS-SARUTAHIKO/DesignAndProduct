@@ -15,13 +15,13 @@
 
 ### 第一号
 
-![Five-Spots](/images/original/FiveSpots01.png "Five-Spots")
+![Five-Spots](../images/original/FiveSpots01.png "Five-Spots")
 
 フォントがショボい、企業ロゴっぽさが低い
 
 ### 第二号
 
-![Five-Spots](/images/original/FiveSpots02.png "Five-Spots")
+![Five-Spots](../images/original/FiveSpots02.png "Five-Spots")
 
 ありきたり、無名だとシンプルロゴは厳しいのかと考える<br>
 変に奇をてらったものよりシンプルで良いという気もするが
@@ -31,15 +31,15 @@
 
 名刺の場合は真ん中にQRコードを入れるデザイン
 
-<img src="/images/original/Willows01.png" width="300">
+<img src="../images/original/Willows01.png" width="300">
 
-<img src="/images/original/Willows02.png" width="300">
+<img src="../images/original/Willows02.png" width="300">
 
 ヤナギからのネコヤナギ<br>借り物イラスト製作途中<br>ペイントソフトの使い方を学ぶ必要性
 
 こういう方向性があるという意味で
 
-<img src="/images/original/CatWillows.png" width="300">
+<img src="../images/original/CatWillows.png" width="300">
 
 
 ## Storks
@@ -51,13 +51,13 @@
 
 真ん中にQRコード配置するとハデすぎる
 
-<img src="/images/original/Storks01.png" width="300">
+<img src="../images/original/Storks01.png" width="300">
 
-<img src="/images/original/Storks02.png" width="300">
+<img src="../images/original/Storks02.png" width="300">
 
 
 ドミノピザ型<br>
 このタイプのロゴに入れるには文字が多すぎる
 
-<img src="/images/original/Storks03.png" width="300">
+<img src="../images/original/Storks03.png" width="300">
 

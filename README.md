@@ -1,3 +1,7 @@
+
+[GitPage](https://github.com/TS-SARUTAHIKO/Designs)
+
+
 # Logo
 
 ロゴ作成に関する資料など

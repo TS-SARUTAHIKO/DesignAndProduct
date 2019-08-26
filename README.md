@@ -144,7 +144,7 @@ QRコードでデータ自体、若しくはURLへのリンクを転送して`�
 
 →[電子名刺](https://www.google.com/search?q=%E9%9B%BB%E5%AD%90%E5%90%8D%E5%88%BA&safe=off&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvlNiw4p7kAhWjGaYKHdQVASsQ_AUIESgB&biw=1432&bih=876)
 
-![電子名刺サムネ](https://github.com/TS-SARUTAHIKO/Designs/blob/master/img1.png "電子名刺サムネ")
+![電子名刺サムネ](/images/others/img1.png "電子名刺サムネ")
 
 電子名刺の規格は[vCard](https://www.google.com/search?q=vCard&safe=off&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjKoauX457kAhVLCqYKHbWvBU0Q_AUIFCgE&biw=1432&bih=876)というのがあるが古い？<br>
 ただし、データ部分はvCardでデザインには手を加えた形のデータフォーマットが使われてる可能性

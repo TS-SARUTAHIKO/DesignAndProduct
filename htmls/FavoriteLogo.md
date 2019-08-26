@@ -9,7 +9,7 @@
 
 !["ドミノピザ"](https://s3-ap-northeast-1.amazonaws.com/newstopics-production/url/51b6832843123a16023644c68bedfc78fe129a48?1536691679 "ドミノピザ")
 
-![""]( "")
+!["ドミノピザ"]( "ドミノピザ")
 
 ![""]( "")
 

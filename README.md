@@ -6,11 +6,11 @@
 
 ロゴ作成に関する資料など
 
-[→ 好みのロゴ](https://github.com/TS-SARUTAHIKO/Designs/blob/master/FavoriteLogo.md)
+[→ 好みのロゴ](/htmls/FavoriteLogo.md)
 
-[→ 自作ロゴ](https://github.com/TS-SARUTAHIKO/Designs/blob/master/Original_Logo.md)
+[→ 自作ロゴ](/htmls/Original_Logo.md)
 
-[→ 参考画像リスト](https://github.com/TS-SARUTAHIKO/Designs/blob/master/LogoMaps.md)
+[→ 参考画像リスト](/htmls/LogoMaps.md)
 
 
 # ツール

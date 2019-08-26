@@ -60,7 +60,7 @@
 このタイプのロゴに入れるには文字が多すぎる
 
 <img src="../images/original/Storks03.png" width="300">
-<img src="../images/original/Storks03_Colors3.png" width="300">
-<img src="../images/original/Storks03_Colors4.png" width="300">
-<img src="../images/original/Storks03_Colors5.png" width="300">
+<img src="../images/original/Storks03_Color3.png" width="300">
+<img src="../images/original/Storks03_Color4.png" width="300">
+<img src="../images/original/Storks03_Color5.png" width="300">
 

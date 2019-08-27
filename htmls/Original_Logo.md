@@ -69,3 +69,5 @@
 既にどっかがこんなロゴ使ってそうではあるがｗ
 
 <img src="../images/original/Oaks01.png" width="300">
+
+<img src="../images/original/Oaks02.png" width="300">

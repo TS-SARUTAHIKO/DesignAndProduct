@@ -13,6 +13,8 @@
 
 ## Five-Spots
 
+<img src="https://scontent-yyz1-1.cdninstagram.com/vp/4bce487ada63616e0dec6cb37e7a4dd8/5DF6D4CD/t51.2885-15/e35/57623871_2294948984097369_7504531506458675630_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com" width="300">
+
 ### 第一号
 
 ![Five-Spots](../images/original/FiveSpots01.png "Five-Spots")

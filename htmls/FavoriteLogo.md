@@ -44,6 +44,10 @@
 
 <img src="../images/single/Bird2.png" width="300">
 
+JAL
+
+<img src="https://i.smalljoys.me/2018/01/airplane-jal-mark_new-Japan-Airlines-logo.jpg?w=1308&ssl=1&strip=all" width="300">
+
 
 ##
 

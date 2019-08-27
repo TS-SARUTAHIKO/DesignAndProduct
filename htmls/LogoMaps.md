@@ -34,3 +34,13 @@
 モノクロ以外もある → [都道府県 県章](https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E7%AB%A0)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Japanese_Prefectural_Emblem.png "")
+
+
+# 化粧品
+
+[ → 化粧品](https://www.google.com/search?q=%E5%8C%96%E7%B2%A7%E5%93%81%E3%80%80%E3%83%AD%E3%82%B4&safe=off&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwik3bCtkKTkAhUyE6YKHWZ5D44Q_AUIESgB&biw=1417&bih=870)
+
+<img src="../images/maps/Cosmetics01.png" width="800">
+
+<img src="../images/maps/Cosmetics02.png" width="800">
+

@@ -32,7 +32,6 @@
 名刺の場合は真ん中にQRコードを入れるデザイン
 
 <img src="../images/original/Willows01.png" width="300">
-
 <img src="../images/original/Willows02.png" width="300">
 
 ヤナギからのネコヤナギ<br>借り物イラスト製作途中<br>ペイントソフトの使い方を学ぶ必要性
@@ -52,7 +51,6 @@
 真ん中にQRコード配置するとハデすぎる
 
 <img src="../images/original/Storks01.png" width="300">
-
 <img src="../images/original/Storks02.png" width="300">
 
 

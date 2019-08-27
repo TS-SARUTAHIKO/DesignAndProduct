@@ -15,16 +15,20 @@
 
 ### 第一号
 
-![Five-Spots](../images/original/FiveSpots01.png "Five-Spots")
-
 フォントがショボい、企業ロゴっぽさが低い
 
-### 第二号
-
-![Five-Spots](../images/original/FiveSpots02.png "Five-Spots")
+![Five-Spots](../images/original/FiveSpots01.png "Five-Spots")
 
 ありきたり、無名だとシンプルロゴは厳しいのかと考える<br>
 変に奇をてらったものよりシンプルで良いという気もするが
+
+![Five-Spots](../images/original/FiveSpots02.png "Five-Spots")
+
+
+ベクターソフト制作<br>このレベルのグラデーションは名刺では表現できない
+
+<img src="../images/original/FiveSpots04.png"  width="300">
+<img src="../images/original/FiveSpots05.png"  width="300">
 
 
 ## Willows
@@ -61,6 +65,7 @@
 <img src="../images/original/Storks03_Color3.png" width="300">
 <img src="../images/original/Storks03_Color4.png" width="300">
 <img src="../images/original/Storks03_Color5.png" width="300">
+<img src="../images/original/Storks03_Color6.png" width="300">
 
 
 ## Oaks

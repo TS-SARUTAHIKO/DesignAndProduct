@@ -14,14 +14,14 @@
 
 [名刺デザイン素材集](https://www.meishiryohin.com/template/#)
 
-![名刺](https://www.meishiryohin.com/template/designdata/017.jpg "名刺")
-![名刺](https://www.meishiryohin.com/template/designdata/033.jpg "名刺")
-![名刺](https://www.meishiryohin.com/template/designdata/130.jpg "名刺")
-![名刺](https://www.meishiryohin.com/template/designdata/131.jpg "名刺")
-![名刺](https://www.meishiryohin.com/template/designdata/133.jpg "名刺")
-![名刺](https://www.meishiryohin.com/template/designdata/134.jpg "名刺")
-![名刺](https://www.meishiryohin.com/template/designdata/135.jpg "名刺")
-![名刺](https://www.meishiryohin.com/template/designdata/137.jpg "名刺")
+<img src="https://www.meishiryohin.com/template/designdata/017.jpg" width="300">
+<img src="https://www.meishiryohin.com/template/designdata/033.jpg" width="300">
+<img src="https://www.meishiryohin.com/template/designdata/130.jpg" width="300">
+<img src="https://www.meishiryohin.com/template/designdata/131.jpg" width="300">
+<img src="https://www.meishiryohin.com/template/designdata/133.jpg" width="300">
+<img src="https://www.meishiryohin.com/template/designdata/134.jpg" width="300">
+<img src="https://www.meishiryohin.com/template/designdata/135.jpg" width="300">
+<img src="https://www.meishiryohin.com/template/designdata/137.jpg" width="300">
 
 
 ## 表記内容・情報

@@ -14,13 +14,13 @@
 
 インパクト強し、ここまで押す具体的なイメージがあるなら
 
-![ロゴ](/images/single/SampleLogo01.png "ロゴ")
+![ロゴ](../images/single/SampleLogo01.png "ロゴ")
 
 ## Qwanta
 
 シンプル
 
-![ロゴ](/images/single/SampleLogo02.png "ロゴ")
+![ロゴ](../images/single/SampleLogo02.png "ロゴ")
 
 
 ## スターバックス
@@ -31,18 +31,18 @@
 
 ロゴとQRコードを合体させる案<br> QRの中にロゴ入れるよりデザイン性が高い
 
-<img src="/images/others/SampleLogo03.png" width="400">
+<img src="../images/others/SampleLogo03.png" width="400">
 
 
 ## 鳥ロゴ
 
 オシャレすぎ、名刺で使うと印刷の解像度や発色の関係でしょぼくなる可能性
 
-<img src="/images/single/Bird1.jpg" width="300">
+<img src="../images/single/Bird1.jpg" width="300">
 
 ちょうど良いぐらい？
 
-<img src="/images/single/Bird2.png" width="300">
+<img src="../images/single/Bird2.png" width="300">
 
 
 ##

@@ -3,22 +3,22 @@
 
 ![ロゴ](http://photoshopvip.net/wp-content/uploads/2019/05/2019-logo-design-trend.jpg "ロゴ")
 
-![ロゴ](/images/maps/colors01.png "ロゴ")
+![ロゴ](../images/maps/colors01.png "ロゴ")
 
-![ロゴ](/images/maps/colors02.png "ロゴ")
+![ロゴ](../images/maps/colors02.png "ロゴ")
 
-![ロゴ](/images/maps/colors03.png "ロゴ")
+![ロゴ](../images/maps/colors03.png "ロゴ")
 
 ![ロゴ](https://unio-baseball.jp/cmspress/wp-content/uploads/2016/06/c9b1ebad6463139f4ebd67a6cb84b6e4.png "ロゴ")
 
-![ロゴ](/images/maps/japanese01.jpg "ロゴ")
+![ロゴ](../images/maps/japanese01.jpg "ロゴ")
 
 
 # 鳥
 
 [鳥ロゴ](https://www.google.com/search?q=%E9%B3%A5%E3%80%80%E3%83%AD%E3%82%B4&safe=off&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwix29fwmZ_kAhUsxosBHcXRCpoQ_AUIESgB&biw=1417&bih=870)
 
-![ロゴ](/images/maps/BirdLogo.png "ロゴ")
+![ロゴ](../images/maps/BirdLogo.png "ロゴ")
 
 
 

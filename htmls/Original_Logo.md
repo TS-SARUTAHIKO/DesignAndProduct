@@ -67,6 +67,7 @@
 
 <img src="../images/original/Storks03.png" width="300">
 <img src="../images/original/Storks03_Color3.png" width="300">
+<img src="../images/original/Storks03_Color3_temp.png" width="300">
 <img src="../images/original/Storks03_Color4.png" width="300">
 <img src="../images/original/Storks03_Color5.png" width="300">
 <img src="../images/original/Storks03_Color6.png" width="300">

@@ -29,7 +29,7 @@
 
 ## Webサイト
 
-
+[ロゴペディア](https://www.lancers.jp/category/logo/)
 
 # ロゴデザイン　考察
 

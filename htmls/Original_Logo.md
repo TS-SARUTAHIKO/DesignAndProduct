@@ -29,6 +29,8 @@
 ![Five-Spots](../images/original/FiveSpots02.png "Five-Spots")
 
 
+<img src="../images/original/FiveSpots03.png"  width="300">
+
 ベクターソフト制作<br>このレベルのグラデーションは名刺では表現できない
 
 <img src="../images/original/FiveSpots04.png"  width="300">
@@ -51,6 +53,9 @@
 
 ## Storks
 
+<img src="../images/original/Storks.jpg" width="300">
+<img src="../images/original/Storks_sideview.jpg" width="300">
+
 ベクターソフトで完全自作1号
 
 スタバのロゴを基本としつつ<br>
@@ -71,6 +76,13 @@
 <img src="../images/original/Storks03_Color4.png" width="300">
 <img src="../images/original/Storks03_Color5.png" width="300">
 <img src="../images/original/Storks03_Color6.png" width="300">
+
+<img src="../images/original/Storks04.png" width="300">
+<img src="../images/original/Storks05.png" width="300">
+<img src="../images/original/Storks05_shape02.png" width="300">
+<img src="../images/original/Storks06.png" width="300">
+<img src="../images/original/Storks06_reverse.png" width="300">
+<img src="../images/original/Storks06_reverse02.png" width="300">
 
 
 ## Oaks

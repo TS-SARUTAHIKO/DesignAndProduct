@@ -50,6 +50,13 @@
 
 <img src="../images/original/CatWillows.png" width="300">
 
+文字ロゴ、ヤナギは文字中心か幾何学流線デザインがよさげか
+
+<img src="../images/original/Willows02.png" width="300">
+<img src="../images/original/Willows02_Color2.png" width="300">
+<img src="../images/original/Willows02_Color3.png" width="300">
+<img src="../images/original/Willows03.png" width="300">
+
 
 ## Storks
 
@@ -82,7 +89,7 @@
 <img src="../images/original/Storks05_shape02.png" width="300">
 <img src="../images/original/Storks06.png" width="300">
 <img src="../images/original/Storks06_reverse.png" width="300">
-<img src="../images/original/Storks06_reverse02.png" width="300">
+<img src="../images/original/Storks06_reverse_02.png" width="300">
 
 
 ## Oaks

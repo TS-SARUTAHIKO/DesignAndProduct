@@ -31,7 +31,9 @@
 
 [ロゴペディア](https://www.lancers.jp/category/logo/)
 
-[Poppper](https://poppper.com/)
+[poppper](https://poppper.com/)
+
+[ironin](https://www.ironin.net/logo)
 
 # ロゴデザイン　考察
 
